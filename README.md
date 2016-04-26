@@ -1,2 +1,2 @@
-# cutecom-kde5
-KDE5桌面下的cutecom
+# camel_vimrc
+我的vim配置文件
